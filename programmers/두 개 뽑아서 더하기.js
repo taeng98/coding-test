@@ -1,4 +1,4 @@
-// LV.1 두 개 뽑아서 더하기
+// 두 개 뽑아서 더하기
 // 배열
 
 function solution(arr) {
