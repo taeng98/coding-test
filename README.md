@@ -1,4 +1,4 @@
+> 매일 한 문제씩 꼭 풀자.
 ### 유형별 문제
-#### 배열
-* [[programmers] 두 개 뽑아서 더하기](/programmers/두%20개%20뽑아서%20더하기.js)
-* [[programmers] 모의고사](/programmers/모의고사.js)
+#### 구현
+* [[BOJ] 2564번, 경비원](/BOJ/2564.cpp)
