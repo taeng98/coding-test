@@ -1,5 +1,8 @@
 ### 유형별 문제
 #### 구현, 시뮬레이션
+* [[SWEA] 1859번, 백만 장자 프로젝트](/SWEA/1859.cpp)
+* [[SWEA] 1226번, [S/W 문제해결 기본] 7일차 - 미로1](/SWEA/1226.cpp)
+* [[SWEA] 1979번, 어디에 단어가 들어갈 수 있을까](/SWEA/1979.cpp)
 * [[BOJ] 12906번, 같은 숫자는 싫어](/BOJ/12906.cpp)
 * [[BOJ] 12910번, 나누어 떨어지는 숫자 배열](/BOJ/12910.cpp)
 * [[BOJ] 10163번, 색종이](/BOJ/10163.cpp)
@@ -22,12 +25,17 @@
 * [[BOJ] 2309번, 일곱 난쟁이](/BOJ/2309.cpp)
 * [[BOJ] 2635번, 수 이어가기](/BOJ/2635.cpp)
 #### 자료구조
+* **[[programmers] 81303번, 표 편집](/programmers/81303.cpp)**
 * **[[programmers] 42584번, 주식 가격](/programmers/42584.cpp)**
+* [[programmers] 42586번, 기능개발](/programmers/42586.cpp)
+* [[programmers] 159994번, 카드 뭉치](/programmers/159994.cpp)
+* [[SWEA] 1234번, [S/W 문제해결 기본] 10일차 - 비밀번호](/SWEA/1234.cpp)
 * [[programmers] 12909번, 올바른 괄호](/programmers/12909.cpp)
 * [[programmers] 64061번, 크레인 인형뽑기 게임](/programmers/64061.cpp)
 * [[programmers] 12973번, 짝지어 제거하기](/programmers/12973.cpp)
 * [[programmers] 76502번, 괄호 회전하기](/programmers/76502.cpp)
 #### 정렬
+* [[SWEA] 1860번, 진기의 최고급 붕어빵](/SWEA/1860.cpp)
 * [[BOJ] 14696번, 딱지놀이](/BOJ/14696.cpp)
 * [[BOJ] 2628번, 종이자르기](/BOJ/2628.cpp)
 * [[programmers] 68644번, 두 개 뽑아서 더하기](/programmers/68644.cpp)
